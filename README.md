@@ -1,6 +1,8 @@
 # 🖥️ Terminalizer
 ### A retro-style CRT terminal that transforms any uploaded image into blue phosphor pixel art.
 
+link: https://triloux.github.io/terminalizer/
+
 Terminalizer recreates the aesthetic of the retro office computers.
 Your uploaded image is displayed inside a vintage CRT monitor frame and rendered into **multi‑shade blue phosphor pixels**, complete with:
 
